@@ -1,11 +1,10 @@
-<h2 style="text-align:center"> DSA-using-JAVA</h2>
-<hr>
-<h3>Introduction</h3>
+<h1 style="text-align:center"> DSA-using-JAVA</h1>
+<h2>Introduction</h2>
 <ul>
   <li>Recursion</li>
   <li>Time Complexicity</li>
 </ul>
-<h3>Basic DSA</h3>
+<h2>Basic DSA</h2>
 <ul>
   <li>Arrays</li>
   <li>Linked Lists
