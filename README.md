@@ -4,7 +4,7 @@
   <li>Recursion</li>
   <li>Time Complexicity</li>
 </ul>
-<h2>Basic DSA</h2>
+<h2>Data Structures</h2>
 <ul>
   <li>Arrays</li>
   <li>Linked Lists
