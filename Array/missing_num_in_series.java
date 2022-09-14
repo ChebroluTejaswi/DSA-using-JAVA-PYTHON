@@ -34,5 +34,6 @@ public class missing_num_in_series {
         int end=sc.nextInt();
         int miss=cal_missing_num(series,start,end);
         System.out.print("Missing number in sequence is:"+miss);
+        sc.close();
     }
 }

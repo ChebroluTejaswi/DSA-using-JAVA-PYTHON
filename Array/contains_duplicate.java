@@ -30,5 +30,6 @@ public class contains_duplicate {
         }
         boolean ans=check_duplicates(list);
         System.out.println(ans);
+        sc.close();
     }
 }

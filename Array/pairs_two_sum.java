@@ -42,5 +42,6 @@ public class pairs_two_sum {
         int target=sc.nextInt();
         int[] ans=two_sum(list,target);
         System.out.println(Arrays.toString(ans));
+        sc.close();
     }
 }
