@@ -100,8 +100,8 @@ public class deletion {
             return;
         } else if (location == 0) {
             if (size == 1) {
-                head.next = null;
-                tail.next = null;
+                head= null;
+                tail = null;
                 size--;
             } else {
                 Node temp = head;
@@ -111,8 +111,8 @@ public class deletion {
             System.out.println("Deleted first node of linked list!");
         } else if (location == size - 1) {
             if (size == 1) {
-                head.next = null;
-                tail.next = null;
+                head = null;
+                tail = null;
             } else {
                 int t = 0;
                 Node temp = head;
