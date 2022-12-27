@@ -23,4 +23,8 @@
   <li>Binary Tree</li>
   <li>Binary Search Tree</li>
   <li>AVL Tree</li>
+  <li>Binary Heap</li>
+  <li>Trie</li>
 </ul>
+
+
