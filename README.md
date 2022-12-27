@@ -26,5 +26,22 @@
   <li>Binary Heap</li>
   <li>Trie</li>
 </ul>
+<h2>&#128228;<a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA/tree/main/Hashing">Hashing</a> </h2>
+<ul>
+  <li>Direct Chaining</li>
+  <li>Open Addressing: Linear Probing</li>
+  <li>Open Addressing: Quadratic Probing</li>
+  <li>Open Addressing: Double Probing</li>
+</ul>
+<h2>&#128246; <a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA/tree/main/Sorting">Sorting</a> </h2>
+<ul>
+  <li>Bubble Sort</li>
+  <li>Selection Sort</li>
+  <li>Insertion Sort</li>
+  <li>Bucket Sort</li>
+  <li>Merge Sort</li>
+  <li>Quick Sort</li>
+  <li>Heap Sort</li>
+</ul>
 
 
