@@ -29,9 +29,13 @@
 <h2>&#128228;<a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA/tree/main/Hashing">Hashing</a> </h2>
 <ul>
   <li>Direct Chaining</li>
-  <li>Open Addressing: Linear Probing</li>
-  <li>Open Addressing: Quadratic Probing</li>
-  <li>Open Addressing: Double Probing</li>
+  <li>Open Addressing
+  <ol>
+      <li>Linear Probing</li>
+      <li>Quadratic Probing</li>
+      <li>Double Probing</li>
+    </ol>
+  </li>
 </ul>
 <h2>&#128246; <a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA/tree/main/Sorting">Sorting</a> </h2>
 <ul>
