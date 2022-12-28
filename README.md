@@ -45,7 +45,6 @@
   <li>Bucket Sort</li>
   <li>Merge Sort</li>
   <li>Quick Sort</li>
-  <li>Heap Sort</li>
 </ul>
 <h2>&#128269; <a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA/tree/main/Searching">Searching</a> </h2>
 <ul>
