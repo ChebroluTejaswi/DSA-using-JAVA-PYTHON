@@ -17,7 +17,7 @@ def num_ways(mat,r,c,cost):
             return 1
         return 0
     elif r==0:
-        return num_ways(mat,0,c-1,cost=cost-mat[r][c])
+        return num_ways(mat,0,c-1,cost-mat[r][c])
     elif c==0:
         return num_ways(mat,r-1,0,cost-mat[r][c])
     else:
