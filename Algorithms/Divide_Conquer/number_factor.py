@@ -10,4 +10,4 @@ def numberfactor(n):
         sp3=numberfactor(n-4)
         return sp1+sp2+sp3
 
-print(numberfactor(7))
+print(numberfactor(6))
