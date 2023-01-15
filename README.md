@@ -53,9 +53,9 @@
 </ul>
 <h2>&#129518; <a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Algorithms">Algorithms</a> </h2>
 <ul>
-  <li>Graph Algorithms</li>
+  <!-- <li>Graph Algorithms</li> -->
   <li>Greedy Algorithms</li>
   <li>Divide and Conquer Algorithms</li>
   <li>Dynamic Programming</li>
-  <li>Backtracking</li>
+  <!-- <li>Backtracking</li> -->
 </ul>
