@@ -1,0 +1,9 @@
+Sorting techniques can be classified on basis of space used and stability
+Space used:
+    In place - sorting algorithms which do not require extra space (eg: bubble sort, selection sort, insertion sort)
+    Out of Place - sorting algorithms which requires extra space (eg: merge sort, bucket sort)
+
+Stability:
+    Stable - content/elements order does not change after sorting (eg: bubble sort, bucket sort, merge sort)
+    Unstable - content/elements order changes after sorting (eg: quick sort, selection sort, heap sort)
+
