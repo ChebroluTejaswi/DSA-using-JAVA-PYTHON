@@ -8,6 +8,7 @@ public class gcd {
             return a;
         return cal_gcd(b,a%b);
     }
+    
     public static int gcd_1(int a,int b)
     {
         if(a>b)
