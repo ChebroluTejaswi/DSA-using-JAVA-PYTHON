@@ -8,7 +8,7 @@
 </ul>
 <h2>⛓️ Basic Data Structures</h2>
 <ul>
-  <li><a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Array">Arrays</a></li>
+  <li><a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/5_Array">Arrays</a></li>
   <li><a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Linked_List">Linked Lists</a>
     <ol>
       <li>Singly Linked List</li>
