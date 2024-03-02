@@ -1,10 +1,10 @@
 <h1 style="text-align:center"> DSA-using-JAVA</h1>
 <h2> 🚀 Introduction</h2>
 <ul>
-  <li><a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Time_Complexicity">Time Complexicity</a></li>
-  <li><a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Dictionary">Dictionary</a></li>
-  <li><a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Dictionary">Dictionary</a></li>
-  <li><a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Recursion">Recursion</a></li>
+  <li><a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/1_Time_Complexicity">Time Complexicity</a></li>
+  <li><a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/2_Dictionary">Dictionary</a></li>
+  <li><a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/3_Tuple">Tuple</a></li>
+  <li><a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/4_Recursion">Recursion</a></li>
 </ul>
 <h2>⛓️ Basic Data Structures</h2>
 <ul>
