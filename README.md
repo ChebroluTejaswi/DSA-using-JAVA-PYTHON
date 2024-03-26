@@ -20,6 +20,11 @@
   <li><a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Stack">Stack</a></li>
   <li><a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Queue">Queue</a></li>
 </ul>
+<h2>&#128269; <a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Searching">Searching</a> </h2>
+<ul>
+  <li>Linear Search</li>
+  <li>Binary Search</li>
+</ul>
 <h2>&#127794; <a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Tree">Trees</a> </h2>
 <ul>
   <li>Binary Tree</li>
@@ -47,11 +52,6 @@
   <li>Bucket Sort</li>
   <li>Merge Sort</li>
   <li>Quick Sort</li>
-</ul>
-<h2>&#128269; <a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Searching">Searching</a> </h2>
-<ul>
-  <li>Linear Search</li>
-  <li>Binary Search</li>
 </ul>
 <h2>&#129518; <a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Algorithms">Algorithms</a> </h2>
 <ul>
