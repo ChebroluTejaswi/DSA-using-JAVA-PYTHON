@@ -1,10 +1,8 @@
 # divide and conquer approach. Find pivot point and make sure at every iteration elements smaller than pivot are present before pivot and 
 # elements greater than pivot are present after pivot
 
-arr=[3,5,8,1,2,9,4]
-
 # def partition(arr,s,e):
-#     pivot=arr[s]
+#     pivot=arr[e]
 #     i=s
 #     j=e
 #     while i<j:
@@ -14,28 +12,28 @@ arr=[3,5,8,1,2,9,4]
 #             j=j-1
 #         if i<j:
 #             arr[i],arr[j]=arr[j],arr[i]
-#     arr[j],arr[s]=arr[s],arr[j]
-#     return j
+#     arr[i],arr[e]=arr[e],arr[i]
+#     print(arr,i)
+#     print("---------------------")
+#     return i
 
 def partition(arr,s,e):
     pivot=arr[e]
-    i=s
-    j=e
-    while i<j:
-        while arr[i]<=pivot and i<e:
+    i=s-1
+    for j in range(s,e):
+        if arr[j]<=pivot:
             i=i+1
-        while arr[j]>pivot and j>=s:
-            j=j-1
-        if i<j:
             arr[i],arr[j]=arr[j],arr[i]
-    arr[i],arr[e]=arr[e],arr[i]
-    return i
+    arr[i+1],arr[e]=arr[e],arr[i+1]
+    print(arr,i+1)
+    return i+1
 
-def quicksort(arr,s,e):
+def quick_sort(arr,s,e):
     if s<e:
-        p=partition(arr,s,e)
-        quicksort(arr,s,p-1)
-        quicksort(arr,p+1,e)
+        pivot=partition(arr,s,e)
+        quick_sort(arr,s,pivot-1)
+        quick_sort(arr,pivot+1,e)
+    return arr
 
-quicksort(arr,0,len(arr)-1)
-print(arr)
+print(quick_sort([9,8,5,3,2],0,4))
+

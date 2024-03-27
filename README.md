@@ -25,6 +25,15 @@
   <li>Linear Search</li>
   <li>Binary Search</li>
 </ul>
+<h2>&#128246; <a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Sorting">Sorting</a> </h2>
+<ul>
+  <li>Bubble Sort</li>
+  <li>Selection Sort</li>
+  <li>Insertion Sort</li>
+  <li>Bucket Sort</li>
+  <li>Merge Sort</li>
+  <li>Quick Sort</li>
+</ul>
 <h2>&#127794; <a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Tree">Trees</a> </h2>
 <ul>
   <li>Binary Tree</li>
@@ -43,15 +52,6 @@
       <li>Double Probing</li>
     </ol>
   </li>
-</ul>
-<h2>&#128246; <a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Sorting">Sorting</a> </h2>
-<ul>
-  <li>Bubble Sort</li>
-  <li>Selection Sort</li>
-  <li>Insertion Sort</li>
-  <li>Bucket Sort</li>
-  <li>Merge Sort</li>
-  <li>Quick Sort</li>
 </ul>
 <h2>&#129518; <a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Algorithms">Algorithms</a> </h2>
 <ul>
