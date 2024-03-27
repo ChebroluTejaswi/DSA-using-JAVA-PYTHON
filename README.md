@@ -20,12 +20,12 @@
   <li><a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Stack">Stack</a></li>
   <li><a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Queue">Queue</a></li>
 </ul>
-<h2>&#128269; <a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Searching">Searching</a> </h2>
+<h2>&#128269; <a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/9_Searching">Searching</a> </h2>
 <ul>
   <li>Linear Search</li>
   <li>Binary Search</li>
 </ul>
-<h2>&#128246; <a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/Sorting">Sorting</a> </h2>
+<h2>&#128246; <a href="https://github.com/ChebroluTejaswi/DSA-using-JAVA-PYTHON/tree/main/10_Sorting">Sorting</a> </h2>
 <ul>
   <li>Bubble Sort</li>
   <li>Selection Sort</li>
